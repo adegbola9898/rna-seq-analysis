@@ -1,0 +1,1 @@
+<contents of ensembl_transcript_to_amino_acid_sequence.py>
